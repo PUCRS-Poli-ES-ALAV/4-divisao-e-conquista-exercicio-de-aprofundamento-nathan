@@ -1,9 +1,5 @@
 package br.pucrs;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
@@ -12,4 +8,3 @@ public class App
     }
 }
 
-//teste commit
